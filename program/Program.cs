@@ -15,3 +15,24 @@ for (int i = 0; i < strArray?.Length; i++)
 }
 System.Console.WriteLine();
 
+// Описываем новый массив и заводим счетчик для второго массива.
+string[] newArray = new string[count];
+int k = 0;
+for (int i = 0; i < strArray?.Length; i++)
+{
+    if (strArray[i].Length <= 3)
+    {
+        newArray[k] = strArray[i];
+        k++;
+    }
+}
+
+// Выводим новый массив.
+if (k != 0)
+{
+    for (int i = 0; i < newArray.Length; i++)
+    {
+        System.Console.Write($"[{newArray[i]}]" + " ");
+    }
+}
+else System.Console.WriteLine("No elements");
