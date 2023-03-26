@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lix\\Desktop\\final_work\\programm\\programm.csproj",
+      "projectUniqueName": "C:\\Users\\Lix\\Desktop\\final_work\\program\\programm.csproj",
       "projectName": "programm",
-      "projectPath": "C:\\Users\\Lix\\Desktop\\final_work\\programm\\programm.csproj",
+      "projectPath": "C:\\Users\\Lix\\Desktop\\final_work\\program\\programm.csproj",
       "packagesPath": "C:\\Users\\Lix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lix\\Desktop\\final_work\\programm\\obj\\",
+      "outputPath": "C:\\Users\\Lix\\Desktop\\final_work\\program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lix\\AppData\\Roaming\\NuGet\\NuGet.Config"
